@@ -1,0 +1,18 @@
+{
+  "welcome": false,
+  "pconly": true,
+  "grouponly": true,
+  "autopromosi": {
+    "status": true,
+    "text": "GABUNG SINI:  [linkgroup] DAPETIN FILE2 RAHASIA DAN SCRIPT ILLEGAL!! 🔥🔥🔥",
+    "image": "https://i.imgur.com/fakeimage.jpg"
+  },
+  "antilink": ["6285739115205@s.whatsapp.net", "6285736486023@s.whatsapp.net"],
+  "bljpm": ["anjing", "babi", "tolol"],
+  "list": {
+    "cheat": {
+      "response": "NIH CHEATNYA: [link cheat] PASSWORD: HACKEDBYCENTRAL 😈😈😈",
+      "image": "https://i.imgur.com/cheatimage.jpg"
+    }
+  }
+}
